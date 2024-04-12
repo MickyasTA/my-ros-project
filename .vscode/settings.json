@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "/home/mickyas/my-ros-project/packages/my-package",
+    "ros.distro": "foxy"
+}
