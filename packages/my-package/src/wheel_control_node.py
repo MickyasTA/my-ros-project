@@ -5,7 +5,7 @@ import rospy
 from duckietown.dtros import DTROS, NodeType
 from duckietown_msgs.msg import WheelsCmdStamped
 
-
+# define the 
 # throttle and direction for each wheel
 THROTTLE_LEFT = 0.5        # 50% throttle
 DIRECTION_LEFT = 1         # forward
